@@ -8,6 +8,8 @@
 
     <TextView
         android:id="@+id/result"
+        android:textSize="50dp"
+        android:textAlignment="center"
         android:layout_width="194dp"
         android:layout_height="114dp"
         android:layout_marginStart="108dp"
@@ -18,4 +20,5 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
 </android.support.constraint.ConstraintLayout>
